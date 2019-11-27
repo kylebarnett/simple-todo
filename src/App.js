@@ -7,7 +7,6 @@ function App() {
   const [todos, setTodos] = useState(data)
   const [values, setValues] = useState({
     todo: "",
-    description: "",
     completed: false
   })
 
@@ -18,7 +17,6 @@ function App() {
   const addTodo = info => {
     const newTodo = {
       todo: values.todo,
-      description: values.description,
       completed: false
     }
     setTodos({ ...todos, newTodo })
