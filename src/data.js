@@ -1,6 +1,6 @@
 const todoList = [
   {
-    todo: "eat food",
+    todo: "eat thanksgiving food",
     completed: false
   },
   {
