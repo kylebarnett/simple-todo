@@ -10,6 +10,10 @@ const todoList = [
   {
     todo: "sleep",
     completed: true
+  },
+  {
+    todo: "watch sports",
+    completed: true
   }
 ]
 
