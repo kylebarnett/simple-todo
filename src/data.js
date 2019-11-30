@@ -14,6 +14,10 @@ const todoList = [
   {
     todo: "watch sports",
     completed: true
+  },
+  {
+    todo: "shop for christmas",
+    completed: false
   }
 ]
 
