@@ -18,6 +18,10 @@ const todoList = [
   {
     todo: "shop for christmas",
     completed: false
+  },
+  {
+    todo: "prepare for lambda",
+    completed: true
   }
 ]
 
